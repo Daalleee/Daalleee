@@ -2,9 +2,13 @@
 
 ###
 
+#
+
 <h4 align="center">Tech Stack</h4>
 
 ###
+
+#
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -26,10 +30,9 @@
 
 ###
 
+#
+
 <h4 align="center">Play game with me</h4>
-
-###
-
 <img src="https://raw.githubusercontent.com/Daalleee/Daalleee/output/snake.svg" alt="Snake animation" />
 
 ###
