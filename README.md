@@ -1,6 +1,4 @@
-# 💫 About Me:
-
-Hallo
+# 💫 Hallo:
 
 ## 🌐 Socials:
 
@@ -16,12 +14,26 @@ Hallo
 ![](https://nirzak-streak-stats.vercel.app/?user=Daalleee&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daalleee&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Daalleee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Daalleee&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h4 align="left">Play game with me</h4>
+
+###
+
+<img src="https://raw.githubusercontent.com/Daalleee/Daalleee/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daalleee/Daalleee/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daalleee/Daalleee/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Daalleee/Daalleee/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Daalleee/count.svg?"  />
+</div>
+
+###
