@@ -11,14 +11,11 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Daalleee&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Daalleee&theme=shadow_green&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Daalleee&theme=shadow_green&hide_border=false)<br>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h4 align="left">Play game with me</h4>
-
-###
-
 <img src="https://raw.githubusercontent.com/Daalleee/Daalleee/output/snake.svg" alt="Snake animation" />
 
 ###
