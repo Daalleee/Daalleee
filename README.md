@@ -1,4 +1,4 @@
-<h5 align="center">Hi, I’m Dale Masan👋<br>I thought you’d INSERT INTO me in your heart turns out you just did a SELECT * FROM heart 😅<br>💻 Coding. 🍔 Eating. 😴 Sleeping. 🔄 Repeat.</h5>
+<h3 align="center">Hi, I’m Dale Masan👋</h3>
 
 ###
 
