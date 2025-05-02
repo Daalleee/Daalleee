@@ -1,4 +1,4 @@
-# 💫 Hallo:
+# 💫 Hallo, I'm Dalle Masan:
 
 ## 🌐 Socials:
 
