@@ -12,7 +12,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Daalleee&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Daalleee&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daalleee&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -32,8 +31,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Daalleee/count.svg?"  />
-</div>
-
-###
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Daalleee.Daalleee&left_color=darkblue&right_color=darkgreen"  />
